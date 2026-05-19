@@ -1,6 +1,6 @@
 # The Legend of Tun Teja
 
-A 3D action adventure game built with Unity, inspired by the Malaysian folklore of Tun Teja — a legendary princess whose story of love, loyalty, and sacrifice has been told for centuries. Players embark on an immersive journey through a richly crafted world that brings this classic tale to life.
+A 3D action adventure game built with Unity, inspired by the Malaysian folklore of Tun Teja a legendary princess whose story of love, loyalty, and sacrifice has been told for centuries. Players embark on an immersive journey through a richly crafted world that brings this classic tale to life.
 
 ## Download & Play the Game
 
