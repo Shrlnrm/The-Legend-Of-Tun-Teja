@@ -1,8 +1,8 @@
 # The Legend of Tun Teja
 
-A 3D action-adventure game built with Unity, inspired by the Malaysian folklore of Tun Teja — a legendary princess whose story of love, loyalty, and sacrifice has been told for centuries. Players embark on an immersive journey through a richly crafted world that brings this classic tale to life.
+A 3D action adventure game built with Unity, inspired by the Malaysian folklore of Tun Teja — a legendary princess whose story of love, loyalty, and sacrifice has been told for centuries. Players embark on an immersive journey through a richly crafted world that brings this classic tale to life.
 
-## 🎮 Download & Play the Game
+## Download & Play the Game
 
 The compiled game build is located in the **[`Build/`](https://github.com/Shrlnrm/LegendOfTunTeja/tree/main/Build)** folder of this repository.
 
@@ -35,25 +35,25 @@ Build/The Legend of Tun Teja/
 
 | Requirement | Minimum |
 |---|---|
-| **OS** | Windows 10 / 11 (64-bit) |
+| **OS** | Windows 10 / 11 (64bit) |
 | **Graphics** | DirectX 11 compatible GPU |
 | **Runtime** | No additional installation needed |
 
 ## Features
 - **Malaysian Folklore Setting**: Experience the legend of Tun Teja reimagined as an interactive 3D adventure.
 - **Unity Engine**: Built with Unity for Windows PC.
-- **Standalone Executable**: No installation required — just extract and play.
+- **Standalone Executable**: No installation required just extract and play.
 
 ## Project Structure
 
 ```
 LegendOfTunTeja/
 ├── Assets/              # Unity project assets (scripts, scenes, models, etc.)
-├── Build/               # ✅ Compiled game — download from here to play
+├── Build/               # Compiled game (**download from here to play**)
 │   ├── The Legend of Tun Teja/      # Uncompressed game files
 │   ├── The Legend of Tun Teja.rar   # RAR archive of the build
 │   └── The_Legend_of_Tun_Teja.zip  # ZIP archive of the build
-├── GeneratedAssets/     # Auto-generated Unity assets
+├── GeneratedAssets/     # Auto generated Unity assets
 ├── Packages/            # Unity package dependencies
 └── ProjectSettings/     # Unity project settings
 ```
@@ -61,5 +61,5 @@ LegendOfTunTeja/
 ## Tech Stack
 - **Engine**: Unity (Windows Standalone Build)
 - **Language**: C#
-- **Platform**: Windows PC (64-bit)
+- **Platform**: Windows PC (64bit)
 - **Graphics API**: DirectX 12 / DirectML
