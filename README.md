@@ -17,3 +17,7 @@ Requires Windows 10/11 (64-bit) and a DirectX 11 compatible GPU.
 - Unity
 - C#
 - Windows Standalone (DirectX 12)
+
+## Notes
+
+Most of the game assets are AI generated. The source code is AI assisted.
